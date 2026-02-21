@@ -1,9 +1,9 @@
 -->Project Title:--Exploratory Data Analysis on Google Play Store Apps
 
 -->>Overview
-    This project performs Exploratory Data Analysis (EDA) on the Google Play Store dataset to understand app trends, ratings, categories, installs, and pricing patterns. The analysis helps identify factors that influence app popularity and user ratings.
+      **This project performs Exploratory Data Analysis (EDA) on the Google Play Store dataset to understand app trends, ratings, categories, installs, and pricing patterns. The analysis helps identify factors that influence app popularity and user ratings.
 
--->>Objectives
+-->>Objectives  
   *Analyze app ratings, reviews, installs, and categories
   *Identify most popular app categories
    *Understand relationship between installs, ratings, and reviews
@@ -24,7 +24,7 @@
 
 *Jupyter Notebook
 
--->>Key Analysis Performed
+-->>>>Key Analysis Performed
 
 *Data Cleaning and Preprocessing
 
@@ -40,7 +40,7 @@
 
 *Visualization using bar charts, histograms, and heatmaps
 
--->>Key Insights
+-->>>>Key Insights
 
 *Certain categories dominate the Play Store in terms of app count
 
@@ -52,7 +52,9 @@
 
 -->Project Structure
 * eda_google_play.ipynb
+  
 *dataset.csv
+
 *README.md
 
 -->>Outcome
